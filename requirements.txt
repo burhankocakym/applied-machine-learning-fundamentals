@@ -1,0 +1,12 @@
+# Data Processing
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+apyori
