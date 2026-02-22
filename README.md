@@ -34,6 +34,7 @@ Each classification model includes:
 - Pandas
 - Matplotlib
 - Scikit-learn
+- Apriori
 
 ## Author
 Burhan Koçak
