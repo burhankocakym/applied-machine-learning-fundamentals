@@ -33,6 +33,7 @@ Each classification model includes:
 - NumPy
 - Pandas
 - Matplotlib
+- Scipy
 - Scikit-learn
 - Apriori
 
